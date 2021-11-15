@@ -33,6 +33,8 @@ Error: None
 ```
 This is using the English to Hausa model. You can use the `-n` and `-p` arguments to change the host and port. The source text is hard-coded but easily changed.
 
+Some of the models support additional arguments which can be passed to the docker at launch time, using the `-e` argument to docker (for environemnent) variables. See the models page for more details.
+
 ## Licence
 
 
