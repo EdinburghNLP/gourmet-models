@@ -31,6 +31,12 @@ Translation: An gudanar da taron sauyin yanayi a Glasgow
 Time: 2242
 Error: None
 ```
-This is using the English to Hausa model. You can use the `-n` and `-p` arguments to change the host and port. The source text is hard-coded but easily changed. 
+This is using the English to Hausa model. You can use the `-n` and `-p` arguments to change the host and port. The source text is hard-coded but easily changed.
+
+## Licence
+
+
+## Acknowledgements
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 825299.
 
 
