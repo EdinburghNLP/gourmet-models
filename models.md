@@ -1,3 +1,5 @@
+## Model list
+
 | Language pair | Version | Link |
 | --------------- | --------------- | --------------- |
 | Bulgarian to English | 0.1 | http://data.statmt.org/gourmet/models/docker/bg-en.20190801.tgz |
@@ -17,3 +19,16 @@
 |  English to Igbo | 0.2 | http://data.statmt.org/gourmet/models/docker/mt-engine-en-ig.v0.2.tar.gz |
 | Pashto to English | 0.2 | http://data.statmt.org/gourmet/models/docker/mt-engine-ps-en.v0.2.tar.gz |
 | English to Pashto | 0.2 | http://data.statmt.org/gourmet/models/docker/mt-engine-en-ps.v0.2.tar.gz |
+
+
+## Additional Arguments
+
+The following are supported by en>bg, en>gu, en<>ig, en<>ha , using the `-e` argument to docker 
+
+`DEBUG` - Set this to anything to get more verbosity
+
+`MARIAN_THREADS` - defaults to 1, but increase this to get the translator to use more threads. This will only be useful if your translation job contains several sentences.
+
+`MARIAN_BATCH` - defaults to 1, but increase this for larger translation jobs
+
+
