@@ -8,5 +8,5 @@ can be downloaded from a separate site (see below).
 
 ## Using the Models
 
-The model download links are [here](https://github.com/EdinburghNLP/gourmet-models/models.md). 
+The model download links are [here](https://github.com/EdinburghNLP/gourmet-models/blob/main/models.md). 
 
