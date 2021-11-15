@@ -8,5 +8,14 @@ can be downloaded from a separate site (see below).
 
 ## Using the Models
 
-The model download links are [here](https://github.com/EdinburghNLP/gourmet-models/blob/main/models.md). 
+The model download links are [here](https://github.com/EdinburghNLP/gourmet-models/blob/main/models.md). Once downloaded, the model
+can be loaded using:
+```
+docker load < <MODEL_FILE>
+```
+to launch the translation server, use:
 
+```
+docker run -p 4000:4000 -i --rm <MODEL_NAME>
+```
+This exposes the model on port 4000. Change the second number above if you want to use a different port.
