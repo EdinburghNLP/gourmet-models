@@ -5,6 +5,8 @@ The [Gourmet](https://gourmet-project.eu) project has released several machine t
 contains information about the models, as well as sample code showing how the models can be used. The models themselves are available as dockers, and
 can be downloaded from a separate site (see below).
 
+Some of the models are described in our public deliverables. See the [integration report](https://gourmet-project.eu/wp-content/uploads/2020/07/GoURMET_D5_3_Initial_Integration_Report.pdf) for details of model training, and the [evaluation report](https://gourmet-project.eu/wp-content/uploads/2020/07/GoURMET_D5_4___Initial_Evaluation-2.pdf) for details of evaluation. 
+
 
 ## Using the Models
 
