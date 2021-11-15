@@ -35,6 +35,9 @@ This is using the English to Hausa model. You can use the `-n` and `-p` argument
 
 Some of the models support additional arguments which can be passed to the docker at launch time, using the `-e` argument to docker (for environemnent) variables. See the models page for more details.
 
+## Computational Requirements
+All models are configured to use the CPU for translation. A GPU is not required, and the models will not use it.
+
 ## Licence
 
 
