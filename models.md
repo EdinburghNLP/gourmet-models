@@ -19,7 +19,16 @@
 |  English to Igbo | 0.2 | http://data.statmt.org/gourmet/models/docker/mt-engine-en-ig.v0.2.tar.gz |
 | Pashto to English | 0.2 | http://data.statmt.org/gourmet/models/docker/mt-engine-ps-en.v0.2.tar.gz |
 | English to Pashto | 0.2 | http://data.statmt.org/gourmet/models/docker/mt-engine-en-ps.v0.2.tar.gz |
-
+| Turkish to English | 0.1 | http://data.statmt.org/gourmet/models/docker/mt-engine-tr-en.tgz |
+| English to Turkis | 0.1 | http://data.statmt.org/gourmet/models/docker/mt-engine-en-tr.tgz|
+| Turkish to English | 0.2 | http://data.statmt.org/gourmet/models/docker/mt-engine-v2-tr-en.tgz|
+| English to Turkish | 0.2 | http://data.statmt.org/gourmet/models/docker/mt-engine-v2-en-tr.tgz |
+| Amharic to English | 0.1 | http://data.statmt.org/gourmet/models/docker/mt-engine-am-en.tgz|
+| English to Amharic | 0.1 | http://data.statmt.org/gourmet/models/docker/mt-engine-en-am.tgz|
+| Kyrgyz to English | 0.1 | http://data.statmt.org/gourmet/models/docker/translation-ky-en-0-0-1.docker.gz|
+| English to Kyrgyz | 0.1 | http://data.statmt.org/gourmet/models/docker/translation-en-ky-0-0-1.docker.gz|
+| Macedonian to English | 0.1 | http://data.statmt.org/gourmet/models/docker/translation-mk-en-0-0-1.docker.gz|
+| English to Macedonian | 0.1 | http://data.statmt.org/gourmet/models/docker/translation-en-mk-0-0-1.docker.gz|
 
 ## Additional Arguments
 
