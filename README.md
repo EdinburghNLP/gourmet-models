@@ -42,6 +42,7 @@ All models are configured to use the CPU for translation. A GPU is not required,
 
 ## Licence
 
+CC-BY
 
 ## Acknowledgements
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 825299.
