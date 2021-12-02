@@ -29,6 +29,8 @@
 | English to Kyrgyz | 0.1 | http://data.statmt.org/gourmet/models/docker/translation-en-ky-0-0-1.docker.gz|
 | Macedonian to English | 0.1 | http://data.statmt.org/gourmet/models/docker/translation-mk-en-0-0-1.docker.gz|
 | English to Macedonian | 0.1 | http://data.statmt.org/gourmet/models/docker/translation-en-mk-0-0-1.docker.gz|
+| Urdu to English | 0.1 | http://data.statmt.org/gourmet/models/docker/mt-engine-ur-en.tar.gz|
+| English to Urdu | 0.1 | http://data.statmt.org/gourmet/models/docker/mt-engine-en-ur.tar.gz|
 
 ## Additional Arguments
 
