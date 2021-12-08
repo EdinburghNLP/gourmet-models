@@ -31,10 +31,10 @@
 | English to Macedonian | 0.1 | http://data.statmt.org/gourmet/models/docker/translation-en-mk-0-0-1.docker.gz|
 | Urdu to English | 0.1 | http://data.statmt.org/gourmet/models/docker/mt-engine-ur-en.tar.gz|
 | English to Urdu | 0.1 | http://data.statmt.org/gourmet/models/docker/mt-engine-en-ur.tar.gz|
-| Myanmar to English | Slower | 0.1 | http://data.statmt.org/gourmet/models/docker/translation-my-en-slower-0-1-0.docker.gz |
-| English to Myanmar | Slower | 0.1 | http://data.statmt.org/gourmet/models/docker/translation-en-my-slower-0-1-0.docker.gz |
-| Myanmar to English | Faster | 0.1 | http://data.statmt.org/gourmet/models/docker/translation-my-en-faster-0-1-0.docker.gz |
-| English to Myanmar | Faster | 0.1 | http://data.statmt.org/gourmet/models/docker/translation-my-en-faster-0-1-0.docker.gz |
+| Myanmar to English | Slower  | http://data.statmt.org/gourmet/models/docker/translation-my-en-slower-0-1-0.docker.gz |
+| English to Myanmar | Slower | http://data.statmt.org/gourmet/models/docker/translation-en-my-slower-0-1-0.docker.gz |
+| Myanmar to English | Faster  | http://data.statmt.org/gourmet/models/docker/translation-my-en-faster-0-1-0.docker.gz |
+| English to Myanmar | Faster  | http://data.statmt.org/gourmet/models/docker/translation-my-en-faster-0-1-0.docker.gz |
 
 
 ## Additional Arguments
