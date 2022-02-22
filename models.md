@@ -35,6 +35,8 @@
 | English to Myanmar | Slower | http://data.statmt.org/gourmet/models/docker/translation-en-my-slower-0-1-0.docker.gz |
 | Myanmar to English | Faster  | http://data.statmt.org/gourmet/models/docker/translation-my-en-faster-0-1-0.docker.gz |
 | English to Myanmar | Faster  | http://data.statmt.org/gourmet/models/docker/translation-my-en-faster-0-1-0.docker.gz |
+| Yoruba to English | 0.1 | https://data.statmt.org/gourmet/models/docker/mt-engine-yo-en.tgz |
+| English to Yoruba | 0.1 | https://data.statmt.org/gourmet/models/docker/mt-engine-en-yo.tgz |
 
 
 ## Additional Arguments
