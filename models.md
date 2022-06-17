@@ -41,7 +41,7 @@
 
 ## Additional Arguments
 
-The following are supported by en>bg, en>gu, en<>ig, en<>ha , using the `-e` argument to docker 
+The following are supported by en>bg, en>gu, en<>ig, en<>ha, en<>ur, en<>yo , using the `-e` argument to docker 
 
 `DEBUG` - Set this to anything to get more verbosity
 
