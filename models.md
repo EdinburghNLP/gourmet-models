@@ -19,6 +19,8 @@
 |  English to Igbo | 0.2 | http://data.statmt.org/gourmet/models/docker/mt-engine-en-ig.v0.2.tar.gz |
 | Pashto to English | 0.4.1 | https://data.statmt.org/gourmet/models/docker/translation-ps-en-0-4-1.docker.gz |
 | English to Pashto | 0.4.1 | https://data.statmt.org/gourmet/models/docker/translation-en-ps-0-4-1.docker.gz |
+| Tigrinya to English | 0.1 | https://data.statmt.org/gourmet/models/docker/mt-engine-ti-en.tgz |
+| English to Tigrinya | 0.1 | https://data.statmt.org/gourmet/models/docker/mt-engine-en-ti.tgz |
 | Turkish to English | 0.1 | http://data.statmt.org/gourmet/models/docker/mt-engine-tr-en.tgz |
 | English to Turkis | 0.1 | http://data.statmt.org/gourmet/models/docker/mt-engine-en-tr.tgz|
 | Turkish to English | 0.2 | http://data.statmt.org/gourmet/models/docker/mt-engine-v2-tr-en.tgz|
